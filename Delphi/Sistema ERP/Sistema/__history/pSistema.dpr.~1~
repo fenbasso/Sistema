@@ -1,0 +1,14 @@
+program pSistema;
+
+uses
+  Vcl.Forms,
+  udmConexao in 'udmConexao.pas' {dmConexao: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TdmConexao, dmConexao);
+  Application.Run;
+end.

@@ -1,0 +1,19 @@
+program pSistema;
+
+uses
+  Vcl.Forms,
+  udmConexao in 'udmConexao.pas' {dmConexao: TDataModule},
+  uPadrao in 'uPadrao.pas' {frmPadrao},
+  uCidades in 'uCidades.pas' {frmCidades},
+  uPrincipal in 'uPrincipal.pas' {frmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TdmConexao, dmConexao);
+  Application.CreateForm(TfrmPadrao, frmPadrao);
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/02 16:17:32.000.756,=C:\Users\fe_ba\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/02 16:17:41.000.900,=C:\Users\fe_ba\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/02 16:18:15.000.062,C:\Users\fe_ba\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\udmConexao.pas</Transaction>
+    <Transaction>2024/11/02 16:18:15.000.062,C:\Users\fe_ba\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\udmConexao.dfm</Transaction>
+    <Transaction>2024/11/02 16:18:18.000.780,C:\Users\fe_ba\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\pSistema.dproj</Transaction>
+    <Transaction>2024/11/04 07:55:59.000.156,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 07:56:36.000.407,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPadrao.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 07:56:36.000.407,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPadrao.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 08:07:53.000.613,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 08:08:13.000.287,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 08:09:07.000.570,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uCidades.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 08:09:07.000.570,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uCidades.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 08:20:19.000.866,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 08:20:58.000.031,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPrincipal.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 08:20:58.000.031,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPrincipal.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 09:07:16.000.128,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uEstados.pas</Transaction>
+    <Transaction>2024/11/04 09:36:55.000.576,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uClientes.pas</Transaction>
+    <Transaction>2024/11/04 12:02:44.000.192,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uProdutos.pas</Transaction>
+    <Transaction>2024/11/04 12:31:03.000.147,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 12:31:23.000.630,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPedidoVenda.dfm</Transaction>
+    <Transaction>2024/11/04 12:31:23.000.630,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPedidoVenda.pas</Transaction>
+    <Transaction>2024/11/04 18:46:01.968,=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 18:46:27.193,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPedidoVendaNEW.pas=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.pas</Transaction>
+    <Transaction>2024/11/04 18:46:27.193,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPedidoVendaNEW.dfm=C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2024/11/04 20:33:30.081,C:\Users\fe_ba\OneDrive\Área de Trabalho\Delphi\Sistema ERP\Sistema\uPedidoVendaNEW.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

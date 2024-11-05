@@ -1,0 +1,21 @@
+object dmConexao: TdmConexao
+  Height = 292
+  Width = 450
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=dba'
+      'User_Name=root'
+      'Password=Nevermore2023!'
+      'Server=localhost'
+      'DriverID=MySQL')
+    Left = 186
+    Top = 115
+  end
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    VendorLib = 
+      'C:\Users\fe_ba\OneDrive\'#193'rea de Trabalho\Delphi\Sistema ERP\Sist' +
+      'ema\Win32\Debug\libmysql.dll'
+    Left = 320
+    Top = 120
+  end
+end

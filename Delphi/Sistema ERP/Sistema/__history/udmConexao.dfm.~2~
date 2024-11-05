@@ -1,0 +1,5 @@
+object dmConexao: TdmConexao
+  Height = 365
+  Width = 563
+  PixelsPerInch = 120
+end
